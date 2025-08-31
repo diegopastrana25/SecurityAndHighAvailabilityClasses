@@ -1,0 +1,13 @@
+﻿ 
+Entramos al editor de directivas de grupo local usando el comando gpedit.msc desde ejecutar (Win + R)
+
+
+
+ 
+Buscamos la directiva de contraseñas y establecemos los ajustes
+
+
+
+ 
+ 
+Buscamos la directiva de bloqueo de cuenta y establecemos los ajustes
